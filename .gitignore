@@ -1,0 +1,6 @@
+.DS_Store
+.Rhistory
+.Rproj.user/
+*.png
+p2*.csv
+p3*.csv
