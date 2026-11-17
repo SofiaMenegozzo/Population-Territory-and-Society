@@ -55,7 +55,6 @@ Slides and written summary (Italian) of a class presentation on Hilary Greaves (
 04-interregional-migration/              report_E4.pdf · data/
 05-school-segregation/                   report_E5.pdf · data/
 greaves-climate-change-and-optimum-population/   slides.pptx · summary.pdf
-figures/                                 charts used in this README
 ```
 
 **Authors:** Sofia Menegozzo, Alessia Cazzulani — *Popolazione, Territorio e Società 1*, BSc Statistics and Information Management, University of Milano-Bicocca, a.y. 2026–27
